@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
+# In[2]:
 
 
 #Gabriel Santos IS211
@@ -39,6 +39,12 @@ class Book(object):
 
 Mice_Men = Book("John Steinbeck", "Of Mice and Men")
 Mockingbird = Book("Harper Lee", "To Kill a Mockingbird")
-print Mice_Men.display()
-print Mockingbird.display()
+print (Mice_Men.display())
+print (Mockingbird.display())
+
+
+# In[ ]:
+
+
+
 
